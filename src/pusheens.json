@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Pizza",
+      "image": "https://user-images.githubusercontent.com/15266541/45933412-d913a680-bf51-11e8-9ee6-d54cdee964cc.gif"
+    },
+    {
+        "id": 2,
+        "name": "Surfing",
+        "image": "https://user-images.githubusercontent.com/15266541/45933663-ca7bbe00-bf56-11e8-8a6a-cc5867018799.gif"
+    },
+    {
+        "id": 3,
+        "name": "Let's Bake",
+        "image": "https://user-images.githubusercontent.com/15266541/45933685-29413780-bf57-11e8-950a-b81ba57e720b.gif"
+    },
+    {
+        "id": 4,
+        "name": "Whale",
+        "image": "https://user-images.githubusercontent.com/15266541/45933799-9b1a8080-bf59-11e8-84f0-4552deea3bea.gif"
+    },
+    {
+        "id": 5,
+        "name": "Sailing",
+        "image": "https://user-images.githubusercontent.com/15266541/45933830-154b0500-bf5a-11e8-8784-adb4d0c1320f.gif"
+    },
+    {
+        "id": 6,
+        "name": "Kinda",
+        "image": "https://user-images.githubusercontent.com/15266541/45933820-f8aecd00-bf59-11e8-897d-7d02c8f62011.gif"
+    },
+    {
+        "id": 7,
+        "name": "Kite",
+        "image": "https://user-images.githubusercontent.com/15266541/45933834-298f0200-bf5a-11e8-80ca-8913bfaab553.gif"
+    },
+    {
+        "id": 8,
+        "name": "Window",
+        "image": "https://user-images.githubusercontent.com/15266541/45933851-5f33eb00-bf5a-11e8-9148-d934507416cd.gif"
+    },
+    {
+        "id": 9,
+        "name": "Flowers",
+        "image": "https://user-images.githubusercontent.com/15266541/45933885-19c3ed80-bf5b-11e8-8896-fab110f1022f.gif"
+    },
+    {
+        "id": 10,
+        "name": "Sailor",
+        "image": "https://user-images.githubusercontent.com/15266541/45933894-4546d800-bf5b-11e8-93ff-a3ed75c07542.gif"
+    },
+    {
+        "id": 11,
+        "name": "Pool",
+        "image": "https://user-images.githubusercontent.com/15266541/45933906-77583a00-bf5b-11e8-8f21-264d04c27140.gif"
+    },
+    {
+        "id": 12,
+        "name": "Pizza Cat",
+        "image": "https://user-images.githubusercontent.com/15266541/45933926-f64d7280-bf5b-11e8-95b5-b58b51e9dd3d.gif"
+    }
+]
