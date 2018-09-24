@@ -1,6 +1,6 @@
 # Clicky Game
 
-This app is a front-end game built with React.js. The user's goal is to click on each card only one time. There are 12 total cards that shuffle automatically on each click, making it more difficult for the user to remember which cards they have not clicked.  To add to the challenge, each card is an animated gif.
+This app is a memory game built with React.js. The user's goal is to click on each card only one time until each card is clicked. There are 12 total cards that shuffle automatically on each click, making it more difficult for the user to remember which cards they have not clicked.  To add to the challenge, each card is an animated gif.
 
 
 ## Demo
