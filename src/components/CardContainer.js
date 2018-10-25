@@ -30,7 +30,7 @@ class CardContainer extends Component {
         this.state.selectedPusheens.forEach(pusheen => {
 
             // if id matches
-            if (pusheen.id == id) {
+            if (pusheen.id === id) {
  
                 // change exists to true
                 exists = true;
@@ -48,7 +48,7 @@ class CardContainer extends Component {
             // loop through the pusheen json
             this.state.pusheens.forEach(pusheen => {
                 // if the pusheen id matches the selected id
-                if (pusheen.id == id) {
+                if (pusheen.id === id) {
                     // add the pusheen to the selected pusheen array
                     this.setState({selectedPusheens: [...this.state.selectedPusheens, pusheen]});
                     console.log(this.state.selectedPusheens);
